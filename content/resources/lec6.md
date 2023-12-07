@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on incentives for parents and children.
-file: /media/courses/14-11-putting-social-sciences-to-the-test-field-experiments-in-economics-spring-2006/6f848afaac289a353f3e8da23a738b95_lec6.pdf
+file: /courses/14-11-putting-social-sciences-to-the-test-field-experiments-in-economics-spring-2006/6f848afaac289a353f3e8da23a738b95_lec6.pdf
 file_size: 109855
 file_type: application/pdf
 learning_resource_types:

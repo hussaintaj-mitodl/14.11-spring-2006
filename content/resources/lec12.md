@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains alternating-offer bargaining game, 3-Period truncated
   game, infinite horizon alternating-offer game and conclusions of basic economic
   models of bargaining.
-file: /media/courses/14-11-putting-social-sciences-to-the-test-field-experiments-in-economics-spring-2006/0ae5367381aece87eefe6ee19102a2f9_lec12.pdf
+file: /courses/14-11-putting-social-sciences-to-the-test-field-experiments-in-economics-spring-2006/0ae5367381aece87eefe6ee19102a2f9_lec12.pdf
 file_size: 399308
 file_type: application/pdf
 learning_resource_types:

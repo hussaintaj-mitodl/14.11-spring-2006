@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on self-imposed deadlines and commitments.
-file: /media/courses/14-11-putting-social-sciences-to-the-test-field-experiments-in-economics-spring-2006/4af9f3ba9b54060e59e7b811cab9519c_lec9.pdf
+file: /courses/14-11-putting-social-sciences-to-the-test-field-experiments-in-economics-spring-2006/4af9f3ba9b54060e59e7b811cab9519c_lec9.pdf
 file_size: 72147
 file_type: application/pdf
 learning_resource_types:

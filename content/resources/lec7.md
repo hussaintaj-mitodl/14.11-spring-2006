@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on the economics of corruption.
-file: /media/courses/14-11-putting-social-sciences-to-the-test-field-experiments-in-economics-spring-2006/e982b6db8a2b2cc7a0cee2c46c4db62d_lec7.pdf
+file: /courses/14-11-putting-social-sciences-to-the-test-field-experiments-in-economics-spring-2006/e982b6db8a2b2cc7a0cee2c46c4db62d_lec7.pdf
 file_size: 270628
 file_type: application/pdf
 learning_resource_types:

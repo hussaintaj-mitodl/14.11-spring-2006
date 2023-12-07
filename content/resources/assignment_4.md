@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/14-11-putting-social-sciences-to-the-test-field-experiments-in-economics-spring-2006/b0d9c46505ed2f286505172a15c060b5_assignment_4.pdf
+file: /courses/14-11-putting-social-sciences-to-the-test-field-experiments-in-economics-spring-2006/b0d9c46505ed2f286505172a15c060b5_assignment_4.pdf
 file_size: 56385
 file_type: application/pdf
 learning_resource_types:

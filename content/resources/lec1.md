@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on models of discrimination.
-file: /media/courses/14-11-putting-social-sciences-to-the-test-field-experiments-in-economics-spring-2006/bdf5a8e4c990925de3fc1f9951656479_lec1.pdf
+file: /courses/14-11-putting-social-sciences-to-the-test-field-experiments-in-economics-spring-2006/bdf5a8e4c990925de3fc1f9951656479_lec1.pdf
 file_size: 178095
 file_type: application/pdf
 learning_resource_types:

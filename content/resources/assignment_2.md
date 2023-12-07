@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problems to test students understanding of course
   material.
-file: /media/courses/14-11-putting-social-sciences-to-the-test-field-experiments-in-economics-spring-2006/c01d1e2a3b0abb31d74ed930298c7d11_assignment_2.pdf
+file: /courses/14-11-putting-social-sciences-to-the-test-field-experiments-in-economics-spring-2006/c01d1e2a3b0abb31d74ed930298c7d11_assignment_2.pdf
 file_size: 41789
 file_type: application/pdf
 learning_resource_types:

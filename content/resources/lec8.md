@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on learning and social effects.
-file: /media/courses/14-11-putting-social-sciences-to-the-test-field-experiments-in-economics-spring-2006/ce345b72b05df5aa1608d7cc68cfe9b3_lec8.pdf
+file: /courses/14-11-putting-social-sciences-to-the-test-field-experiments-in-economics-spring-2006/ce345b72b05df5aa1608d7cc68cfe9b3_lec8.pdf
 file_size: 79621
 file_type: application/pdf
 learning_resource_types:

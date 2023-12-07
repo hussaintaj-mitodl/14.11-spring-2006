@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on voter mobilization.
-file: /media/courses/14-11-putting-social-sciences-to-the-test-field-experiments-in-economics-spring-2006/5811c6b00b406e9e0150b5ae50ec347a_lec11.pdf
+file: /courses/14-11-putting-social-sciences-to-the-test-field-experiments-in-economics-spring-2006/5811c6b00b406e9e0150b5ae50ec347a_lec11.pdf
 file_size: 74215
 file_type: application/pdf
 learning_resource_types:

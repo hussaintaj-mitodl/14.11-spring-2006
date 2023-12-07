@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on fairness and entitlements.
-file: /media/courses/14-11-putting-social-sciences-to-the-test-field-experiments-in-economics-spring-2006/901e2a1348ddbb0794bbef164dde8205_lec5.pdf
+file: /courses/14-11-putting-social-sciences-to-the-test-field-experiments-in-economics-spring-2006/901e2a1348ddbb0794bbef164dde8205_lec5.pdf
 file_size: 112110
 file_type: application/pdf
 learning_resource_types:
